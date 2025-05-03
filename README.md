@@ -16,3 +16,17 @@ Variables Input
 Output:
 
 ![image](https://github.com/user-attachments/assets/024fc437-d891-4104-b82f-ceeefdbebe5b)
+
+
+
+
+
+modules.tf
+
+All modules internally taken from AWS S3
+
+
+Output:
+
+![image](https://github.com/user-attachments/assets/3ffeab97-6722-4e95-a93b-6b727137f2b7)
+
